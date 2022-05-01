@@ -1,3 +1,3 @@
 # TodoList
-# Frontend - Vue
-# Backend - PHP ( REST API )
+Frontend - Vue /
+Backend - PHP ( REST API )
